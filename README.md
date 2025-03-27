@@ -3,10 +3,18 @@
 A live code editor that provides separate sections for HTML, CSS, and JavaScript, similar to Codepen, and displays a live preview below. 📱 It's also mobile responsive.
 
 🌟 **Live Demo**
-Check out the live version of the website: [Live Code Editor]()
+Check out the live version of the website: [Live Code Editor](https://livecodeeditorbygouranga.netlify.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
+
+https://github.com/user-attachments/assets/567d55c3-a71c-4e77-85dc-c32294225397
+
+
+
+https://github.com/user-attachments/assets/373f995f-496d-493f-9e55-10e9efe8a887
+
+
 
 ## ✨ Key Features
 
@@ -47,7 +55,7 @@ Live-Code-Editor/
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://livecodeeditorbygouranga.netlify.app/) to see this project on internet.**
 
 
 ## 👏 Contributing
