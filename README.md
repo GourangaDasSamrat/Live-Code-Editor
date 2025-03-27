@@ -46,6 +46,7 @@ Live-Code-Editor/
 # 🚀 How to Use
 1.  Clone this repository:
     ```bash
+    git@github.com:GourangaDasSamrat/Live-Code-Editor.git
     
 2.  Navigate to the project directory:
     ```bash
