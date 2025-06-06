@@ -23,8 +23,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/567d55c3-a71c-4e77-85dc-c32294225397" width="400" style="border-radius: 10px; margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/373f995f-496d-493f-9e55-10e9efe8a887" width="400" style="border-radius: 10px; margin: 10px;"/>
+
+[Screencast from 2025-06-06 11-49-37.webm](https://github.com/user-attachments/assets/e6604945-1c32-4e7a-8876-c918a62b7b6e)
+
+
 </div>
 
 <div align="center">
