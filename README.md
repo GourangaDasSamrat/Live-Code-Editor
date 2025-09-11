@@ -1,4 +1,20 @@
-<div align="center>
+<div align="center">
+
+<h1 align="center">🚀 Live-Code-Editor 💻✨</h1>
+<p align="center">
+  <a href="https://livecodeeditorbygouranga.netlify.app">
+  </a>
+</p>
+
+<p align="center">
+  <b>A beautiful, fast, and mobile-friendly live code editor for HTML, CSS, and JavaScript.<br>
+  Instantly preview your code as you type, just like CodePen!</b>
+</p>
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/Live-Code-Editor)
+  
+
+<br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0540a39e-1005-4802-95f0-99e3013b4d18/deploy-status)](https://app.netlify.com/projects/livecodeeditorbygouranga/deploys)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -8,30 +24,18 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Flivecodeeditorbygouranga.netlify.app)](https://livecodeeditorbygouranga.netlify.app)
 [![Code Size](https://img.shields.io/github/languages/code-size/GourangaDasSamrat/Live-Code-Editor?style=for-the-badge)](https://github.com/GourangaDasSamrat/Live-Code-Editor)
 
-<br />
-<h1 align="center">🚀 Live-Code-Editor 💻✨</h1>
 
-<p align="center">
-  <a href="https://livecodeeditorbygouranga.netlify.app">
-    <img src="https://raw.githubusercontent.com/GourangaDasSamrat/Live-Code-Editor/main/favicon.png" alt="Logo" width="100" height="100">
-  </a>
-</p>
-
-<p align="center">
-  <b>A beautiful, fast, and mobile-friendly live code editor for HTML, CSS, and JavaScript.<br>
-  Instantly preview your code as you type, just like CodePen!</b>
-</p>
 
 <div align="center">
 
-[Screencast from 2025-06-06 11-49-37.webm](https://github.com/user-attachments/assets/e6604945-1c32-4e7a-8876-c918a62b7b6e)
-
+### 🌐 [View Live Demo](https://livecodeeditorbygouranga.netlify.app/) | 📖 [Documentation](https://github.com/GourangaDasSamrat/Live-Code-Editor#readme) | 🐛 [Report Bug](https://github.com/GourangaDasSamrat/Live-Code-Editor/issues)
 
 </div>
 
 <div align="center">
 
-### 🌐 [View Live Demo](https://livecodeeditorbygouranga.netlify.app/) | 📖 [Documentation](https://github.com/GourangaDasSamrat/Live-Code-Editor#readme) | 🐛 [Report Bug](https://github.com/GourangaDasSamrat/Live-Code-Editor/issues)
+[Screencast from 2025-06-06 11-49-37.webm](https://github.com/user-attachments/assets/e6604945-1c32-4e7a-8876-c918a62b7b6e)
+
 
 </div>
 
