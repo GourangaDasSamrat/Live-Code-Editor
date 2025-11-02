@@ -11,8 +11,26 @@
   Instantly preview your code as you type, just like CodePen!</b>
 </p>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/Live-Code-Editor)
+  ---
+
+<div align="center">
   
+  [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/SimPle-Python-Compiler)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GourangaDasSamrat/Live-Code-Editor)
+  
+  <a href="https://livecodeeditorbygouranga.netlify.app/"><strong>✨ View Live Demo »</strong></a>
+
+</div>
+  <p style="margin-top:16px;">
+    <a href="https://deepwiki.com/GourangaDasSamrat/Live-Code-Editor" title="Detailed documentation on DeepWiki">
+      <img alt="DeepWiki Docs" src="https://img.shields.io/badge/Documentation-DeepWiki-4B79FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    </a>
+  </p>
+  <p><em>For detailed documentation, guides, and configuration notes — visit the DeepWiki page above.</em></p>
+</div>
+
+---
 
 <br />
 
@@ -25,14 +43,6 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/GourangaDasSamrat/Live-Code-Editor?style=for-the-badge)](https://github.com/GourangaDasSamrat/Live-Code-Editor)
 
 
-
-<div align="center">
-
-### 🌐 [View Live Demo](https://livecodeeditorbygouranga.netlify.app/) | 📖 [Documentation](https://github.com/GourangaDasSamrat/Live-Code-Editor#readme) | 🐛 [Report Bug](https://github.com/GourangaDasSamrat/Live-Code-Editor/issues)
-
-</div>
-
-<div align="center">
 
 [Screencast from 2025-06-06 11-49-37.webm](https://github.com/user-attachments/assets/e6604945-1c32-4e7a-8876-c918a62b7b6e)
 
