@@ -34,15 +34,6 @@
 
 <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0540a39e-1005-4802-95f0-99e3013b4d18/deploy-status)](https://app.netlify.com/projects/livecodeeditorbygouranga/deploys)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/GourangaDasSamrat/Live-Code-Editor/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/GourangaDasSamrat/Live-Code-Editor?style=for-the-badge&color=gold)](https://github.com/GourangaDasSamrat/Live-Code-Editor/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/GourangaDasSamrat/Live-Code-Editor?style=for-the-badge)](https://github.com/GourangaDasSamrat/Live-Code-Editor/commits)
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Flivecodeeditorbygouranga.netlify.app)](https://livecodeeditorbygouranga.netlify.app)
-[![Code Size](https://img.shields.io/github/languages/code-size/GourangaDasSamrat/Live-Code-Editor?style=for-the-badge)](https://github.com/GourangaDasSamrat/Live-Code-Editor)
-
-
 
 [Screencast from 2025-06-06 11-49-37.webm](https://github.com/user-attachments/assets/e6604945-1c32-4e7a-8876-c918a62b7b6e)
 
